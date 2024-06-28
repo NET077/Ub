@@ -1,6 +1,5 @@
 <h1 align="center">SURESH GOD</h1><br>
 <h1 align="center">CUNTRY NEPAL</h1><br>
-<h1 align="center">SCHOOL NAME SHERR BHABINE RASTIYA MADHAMIK BIDLAYA</h1><br>
 
 <table border="0">
  <tr>
@@ -8,7 +7,7 @@
       <br>
      <p align="center">
       <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=HARRY-EXE&data=followers,repositories,stars,commits&theme=viridescent"/>
-       <h5 align = "center" >I'm Harry from Nepal, a Python programmer.Showcasing my proficiency in software development. I've successfully delivered more than 23 of impactful projects ! </h5>
+       <h5 align = "center" >I'm SURESH from Nepal, a Python programmer.Showcasing my proficiency in software development. I've successfully delivered more than 23 of impactful projects ! </h5>
 </div>
     <td>
       <img alt="gif" src="https://github.com/HARRY-EXE/HARRY-EXE/assets/94730463/6b433417-45b5-4bc9-ac0a-b74521e398ae">
@@ -51,21 +50,21 @@ if __name__ == "__main__":
 ## Projects
 
 ### 1 - SURESH-GOD❤️‍🩹💋🫶
-- Description: HARRYv6 by HARRY-EXE is a free tool for cracking public files, with Facebook automation (auto like and comment), multiple cracking methods, an optimized file maker, and more.
+- Description: SURESH by SURESH-GOD is a free tool for cracking public files, with Facebook automation (auto like and comment), multiple cracking methods, an optimized file maker, and more.
 - Features: Facebook automation, multiple cracking methods, an optimized file maker, and regular updates.
 - Tool Price : Free No need to Pay !
-- Tool Link : [HARRY-EXE/HARRYv6](https://github.com/NET077/Ub)
+- Tool Link : [SURESH-GOD❤️‍🩹](https://github.com/NET077/Ub)
 - Languages Used : Python
 
 ### 2 - FILE MAKER - In Work
-- Description: FILE MAKER by HARRY-EXE is a free tool designed for rapid creation of both simple and unlimited types of Facebook files, optimized for efficient cracking processes.
+- Description: FILE MAKER by Hannan AnSari is a free tool designed for rapid creation of both simple and unlimited types of Facebook files, optimized for efficient cracking processes.
 - Features:  Rapid and unlimited creation of both simple and unlimited Facebook files for efficient cracking.
 - Tool Price : Free No need to Pay !
-- Tool Link : [HARRY-EXE/FILE](https://github.com/NET077/FILE)
+- Tool Link : [SURESH-GOD](https://github.com/NET077/FILE)
 - Languages Used : Python
 
 ### 2 - LIVE UID CHECKER - In Work
-- Description: LIVE UID CHECKER by HARRY-EXE is a high-speed tool for professionals to verify the status of cloned or cracked IDs, distinguishing between active and inactive ones swiftly.
+- Description: LIVE UID CHECKER by SURESH-GOD is a high-speed tool for professionals to verify the status of cloned or cracked IDs, distinguishing between active and inactive ones swiftly.
 - Features:  Verifies the status (active or dead) of cloned or cracked IDs with professional-grade efficiency.
 - Tool Price : Free No need to Pay !
 - Tool Link : [LIVE UID CHECKER](https://harry-exe.github.io/live-uid-checker/)
