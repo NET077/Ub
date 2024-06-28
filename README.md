@@ -22,7 +22,7 @@ class Person:
     def __init__(self, name, username, age, hobbies, job):
         self.name = name
         self.username = username
-        self.age = age
+        self.age = 17
         self.hobbies = hobbies
         self.job = job
 
@@ -71,6 +71,8 @@ if __name__ == "__main__":
 - Languages Used : HTML , CSS , JS
 
 ## Skills
+
+# DALLY LUSH UPDATE COMING❤️‍🩹💋🫶
 
 ### Programming Languages
 - Python:
