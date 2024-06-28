@@ -22,7 +22,7 @@ class Person:
     def __init__(self, name, username, age, hobbies, job):
         self.name = name
         self.username = username
-        self.age = 17
+        self.age = age
         self.hobbies = hobbies
         self.job = job
 
